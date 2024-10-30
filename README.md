@@ -7,3 +7,8 @@ Link to the dataset below:
 https://www.kaggle.com/datasets/ankkur13/edmundsconsumer-car-ratings-and-reviews
 
 The goal: Make an analysis based on negative reviews. In order to do that, Completing the proper ETL process will facilitate the SQL steps later on.
+
+
+Pipeline:
+
+1.
