@@ -1,4 +1,4 @@
-# ETL-Process-for-Edmund-Car-Reviews-data
+# ETL-Process-for-Edmund-Cars-Reviews-data
 
 I’ve used Edmunds Consumer Car Ratings and Reviews on Kaggle.
 It has 60 plus car brands and a lot of things inside the dataset where you can do a lot of data analysis work.
