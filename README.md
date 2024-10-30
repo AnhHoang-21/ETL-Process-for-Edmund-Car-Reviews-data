@@ -17,7 +17,7 @@ Step 1: Extract
 
 Step 2: Transform
 
-1. Sort out the date portion by using MID(, 4, 8) in Excel.
+1. Sort out the date portion by using MID function in Excel.
 2. Read each text in the “Review” column and assign the reasons for the complaint for each.
 3. Make a reference table for the reasons you made
 4. Encode reasons in the original data to match numbers — code of reasons in the reference table you’ve made previously.
